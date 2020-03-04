@@ -13,6 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 
-if speak_to_grandma == "I love you grandma!".upcase
+if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I love you too pumpkin!".upcase
 end
